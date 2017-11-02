@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"接受方.obj" 
+TO "接收方" 
+RAMSIZE(256) 
